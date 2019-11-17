@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">OMDB Api</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="settings_header">Welcome Screen</string>
+    <string name="splash_screen_key">splash_screen_key</string>
+    <string name="splash_screen_title">Splash Screen</string>
+    <string name="splash_screen_summ_on">Splash screen enabled</string>
+    <string name="splash_screen_summ_off">Splash screen disabled</string>
+
+
+</resources>
