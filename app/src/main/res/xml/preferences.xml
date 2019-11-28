@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="Splash" >
+
+        <SwitchPreferenceCompat
+            app:key="splash_key"
+            app:title="Splash"
+            android:summaryOn="Show splash"
+            android:summaryOff="Don't show splash"/>
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
