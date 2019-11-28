@@ -12,10 +12,6 @@ import com.example.omdbapi.App;
 import com.example.omdbapi.R;
 import com.example.omdbapi.prefs.PrefsRepositoryImpl;
 
-import static com.example.omdbapi.prefs.PrefsRepositoryImpl.NOTIF_PREF_KEY;
-import static com.example.omdbapi.prefs.PrefsRepositoryImpl.TOAST_PREF_KEY;
-import static com.example.omdbapi.util.AboutDialogUtil.isAboutShowing;
-
 
 public class BaseActivity extends AppCompatActivity
         implements ActivityCompat.OnRequestPermissionsResultCallback {
